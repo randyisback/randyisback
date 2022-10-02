@@ -27,7 +27,6 @@
 <a href="https://instagram.com/az4dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azadcoder" height="30" width="40" /></a>
 
 📊 &nbsp;**My Stats**
-  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&show_icons=true&locale=en&layout=compact" alt="randyisback" /></p>
   
 <!--[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)-->
