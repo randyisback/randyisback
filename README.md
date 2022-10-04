@@ -1,9 +1,9 @@
-## Hi There <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
-<b>This is the place where I opensource stuff and break things 😂</b>
+# Hi There <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
+### <b>This is the place where I opensource stuff and break things 😂</b>
 
-- 🔭 &nbsp;I’m currently working on something cool 😁
-- 🌱 &nbsp;I’m currently learning Java, Javascript
-- 💬 &nbsp;Ask me about anything related to C#.
+#### - 🔭 &nbsp;I’m currently working on something cool 😁
+#### - 🌱 &nbsp;I’m currently learning Java, Javascript
+#### - 💬 &nbsp;Ask me about anything related to C#.
 
 
 <!-- 📫 &nbsp;How to reach me: [@az4dd](https://twitter.com/az4dd) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
@@ -18,7 +18,7 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)-->
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
+####🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/azadcoderr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/azadcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azadcoder" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/19464391/azadcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19464391" height="30" width="40" /></a>
 <a href="https://instagram.com/az4dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azadcoder" height="30" width="40" /></a>
 
-📊 &nbsp;**My Stats**
+####📊 &nbsp;**My Stats**
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randyisback)](https://github.com/anuraghazra/github-readme-stats)-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&show_icons=true&locale=en&layout=compact" alt="randyisback" /></p>
