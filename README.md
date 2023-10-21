@@ -2,8 +2,8 @@
 ### <b>This is the place where I opensource stuff and break things 😂</b>
 
 #### - 🔭 &nbsp;I’m currently working on something cool 😁
-#### - 🌱 &nbsp;I’m currently learning Java, Javascript
-#### - 💬 &nbsp;Ask me about anything related to C#.
+#### - 🌱 &nbsp;I’m currently learning Javascript
+#### - 💬 &nbsp;Ask me about anything related to PHP.
 
 
 <!-- 📫 &nbsp;How to reach me: [@az4dd](https://twitter.com/az4dd) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
