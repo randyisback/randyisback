@@ -1,9 +1,8 @@
-# Hi There <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
-### <b>This is the place where I opensource stuff and break things 😂</b>
+# Selam. <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
+### <b>Burada küçük şeyler paylaşıyorum.</b>
 
-#### - 🔭 &nbsp;I’m currently working on something cool 😁
-#### - 🌱 &nbsp;I’m currently learning Javascript
-#### - 💬 &nbsp;Ask me about anything related to PHP.
+#### - 🌱 &nbsp;Şu sıralar iş arıyorum.
+#### - 💬 &nbsp;Hacking ve Siber güvenlik hakkında bir şeyler sorabilirsin.
 
 
 <!-- 📫 &nbsp;How to reach me: [@az4dd](https://twitter.com/az4dd) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
@@ -18,7 +17,7 @@
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)-->
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**İletişim**
 <p align="left">
 <a href="https://dev.to/azadcoderr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/azadcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azadcoder" height="30" width="40" /></a>
