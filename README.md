@@ -1,8 +1,8 @@
 # Selam. <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
 ### <b>Burada küçük şeyler paylaşıyorum.</b>
 
-#### - 🌱 &nbsp;Şu sıralar iş arıyorum.
-#### - 💬 &nbsp;Hacking ve Siber güvenlik hakkında bir şeyler sorabilirsin.
+#### - 🌱 &nbsp;Şu sıralar Android Uygulama Kodluyorum
+#### - 💬 &nbsp;Sosyal Mühendislik,Html,Css,Php,Java ve Phishing hakkında istediğini sorabilirsin.
 
 
 <!-- 📫 &nbsp;How to reach me: [@az4dd](https://twitter.com/az4dd) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
