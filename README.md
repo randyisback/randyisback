@@ -3,13 +3,7 @@
 
 #### - 🌱 &nbsp;Şu sıralar Android Uygulama Kodluyorum.
 #### - ♾️ &nbsp;Eğlenceli içerikler üretmeyi severim.
-#### - 💬 &nbsp;Sosyal Mühendislik,Html,Css,Php,Java veya Phishing hakkında istediğinizi sorabilirsiniz.
-
-
-- 📫 &nbsp;How to reach me: [@az4dd](https://twitter.com/az4dd) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
- 
+#### - 💬 &nbsp;Sosyal Mühendislik,Html,Css,Php,Java veya Phishing hakkında istediğinizi sorabilirsiniz. 
 
 🔗 &nbsp;**İletişim**
 <p align="left">
