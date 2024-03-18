@@ -1,24 +1,78 @@
-# Selamlarr<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
-### <b>Burada küçük şeyler paylaşıyorum.</b>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randyisback&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=randyisback&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=randyisback&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-#### - 🌱 &nbsp;Şu sıralar Android Uygulama Kodluyorum.
-#### - ♾️ &nbsp;Eğlenceli içerikler üretmeyi severim.
-#### - 💬 &nbsp;Sosyal Mühendislik,Html,Css,Php,Java veya Phishing hakkında istediğinizi sorabilirsiniz. 
+###
 
-🔗 &nbsp;**İletişim**
-<p align="left">
-<a href="https://dev.to/azadcoderr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40" /></a>
-<!--<a href="https://twitter.com/azadcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azadcoder" height="30" width="40" /></a>-->
-<!--<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/azadcoder/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azadcoder" height="30" width="40" /></a>-->
+<br clear="both">
 
-<a href="https://stackoverflow.com/users/19464391/azadcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"></a>
-  
-<a href="https://instagram.com/kodlama.dili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azadcoder" height="30" width="40" /></a>
+<div align="center">
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFpZXFrMWhuODExOWZlZ21wbTViZTB3MnV5ZXo3cnZrbDN0MGl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnTehwgRcbgymhTW/giphy.gif"  />
+</div>
 
-📊 &nbsp;**Github Stats**
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randyisback)](https://github.com/anuraghazra/github-readme-stats)-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&show_icons=true&locale=en&layout=compact" alt="randyisback" /></p>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=randyisback&show_icons=true&count_private=true&hide_border=true" align="left" />  
+###
 
+<br clear="both">
 
+<div align="center">
+  <a href="https://youtube.com/c/RANDYoutube" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="130" height="50" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/kodlama.dili/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="130" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://linktr.ee/kodlamadili" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="130" height="50" alt="linktree logo"  />
+  </a>
+  <a href="https://dev.to/azadcoderr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="130" height="50" alt="devto logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19464391/azadcoder" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="130" height="50" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="45" alt="gitlab logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"  />
+</div>
+
+###
