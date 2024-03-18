@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randyisback&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=randyisback&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=randyisback&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=randyisback&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=randyisback&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -10,7 +10,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFpZXFrMWhuODExOWZlZ21wbTViZTB3MnV5ZXo3cnZrbDN0MGl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnTehwgRcbgymhTW/giphy.gif"  />
+  <img height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFpZXFrMWhuODExOWZlZ21wbTViZTB3MnV5ZXo3cnZrbDN0MGl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnTehwgRcbgymhTW/giphy.gif"  />
 </div>
 
 ###
