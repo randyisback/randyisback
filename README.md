@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hoşgeldin! Takip etmeyi unutma 🫡</h2> 
+ <h2>Hoşgeldin! Aldığın projeyi Yıldızlar mısın? 🤍</h2> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=randyisback.randyisback&"  />
 </div>
 
