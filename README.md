@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randyisback&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=%C4%B0statistiklerim" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=randyisback&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=Stats" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randyisback&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2&custom_title=Languages" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=randyisback&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="160" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=randyisback&theme=radical&column=-1&row=1&margin-w=0&margin-h=15&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
